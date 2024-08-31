@@ -1,4 +1,4 @@
-# Advanced Todo List Application
+# Todo List Application
 
 This is an simple command-line todo list application built with C# and .NET 7.0. It provides a task management experience with features like categories, due dates, priorities, and more.
 
